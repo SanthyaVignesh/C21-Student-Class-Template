@@ -1,1 +1,2 @@
-# C21-Student-Class-Template
+# collisionAlgorithm
+Algorithm to detect collision between two objects
